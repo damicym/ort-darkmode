@@ -14,5 +14,3 @@
   * El primero es para activar/desactivar el modo oscuro.
   * El segundo es para activar/desactivar la inversión de color de fotos.
 
-**Con ❤️ por damicym**
-
