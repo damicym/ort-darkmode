@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ORT Campus - Modo Oscuro",
+  "version": "1.0.0",
+  "description": "Modo oscuro para el Campus Virtual de ORT con control independiente de imágenes.",
+  "content_scripts": [
+    {
+      "matches": ["https://campus.ort.edu.ar/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
